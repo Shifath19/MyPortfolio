@@ -89,7 +89,7 @@ const MainSection = () => {
       <Button primary href="#work" style={{color:"white", background: "linear-gradient(106.5deg, rgba(255, 215, 185, 0.91) 23%, rgba(223, 159, 247, 0.8) 93%)"}}>View My Work</Button>
       <Button href="#contact">Get in Touch</Button>
       <Button 
-        href="https://drive.google.com/file/d/1xYAsWxPMvE32OHU8xvFQNO2S9901eZjB/view?usp=sharing" 
+        href="https://drive.google.com/file/d/1Pa6YboqJbyQHaSnde5zCPskqgLLf5V6w/view?usp=sharing" 
         circular 
         target="_blank" 
         rel="noopener noreferrer"
